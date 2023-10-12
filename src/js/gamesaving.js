@@ -1,3 +1,1 @@
-export default class GameSaving {
-    
-}
+export default class GameSaving {}
